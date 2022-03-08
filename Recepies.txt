@@ -5,3 +5,5 @@ vennila
 butterscotch
 chicken 
 chicken fry
+pizza
+Beans
